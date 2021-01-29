@@ -1,0 +1,4 @@
+Avoid
+trailing
+whitespace
+anywhere
